@@ -1,5 +1,5 @@
 current directory: /Users/mychan/Documents/study/secret_hr_api/vendor/cache/ruby/2.6.0/gems/pg-1.2.3/ext
-/Users/mychan/.rvm/rubies/ruby-2.6.3/bin/ruby -I /Users/mychan/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210408-78906-35y773.rb extconf.rb
+/Users/mychan/.rvm/rubies/ruby-2.6.3/bin/ruby -I /Users/mychan/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210408-81381-ygjns8.rb extconf.rb
 checking for pg_config... no
 No pg_config... trying anyway. If building fails, please try again with
  --with-pg-config=/path/to/pg_config
