@@ -1,0 +1,15 @@
+current directory: /Users/mychan/Documents/study/secret_hr_api/vendor/cache/ruby/2.6.0/gems/bootsnap-1.7.3/ext/bootsnap
+/Users/mychan/.rvm/rubies/ruby-2.6.3/bin/ruby -I /Users/mychan/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210408-75578-1fs4oyh.rb extconf.rb
+creating Makefile
+
+current directory: /Users/mychan/Documents/study/secret_hr_api/vendor/cache/ruby/2.6.0/gems/bootsnap-1.7.3/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/mychan/Documents/study/secret_hr_api/vendor/cache/ruby/2.6.0/gems/bootsnap-1.7.3/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/mychan/Documents/study/secret_hr_api/vendor/cache/ruby/2.6.0/gems/bootsnap-1.7.3/ext/bootsnap
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20210408-75578-1ccx31u/bootsnap
